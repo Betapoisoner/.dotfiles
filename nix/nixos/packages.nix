@@ -17,7 +17,7 @@
   pnpm            # Javascript library manager
   sqlc      	  # sql to code 
   dbeaver-bin 	  # db manager
-  open-jdk	  # jdk for java dev
+  openJdk	  # jdk for java dev
   
   # Version Control
   lazygit         # Simple terminal UI for git commands
