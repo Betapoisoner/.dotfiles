@@ -1,0 +1,11 @@
+{
+    "plugins": {},
+    "customCspRules": {
+        "w.wallhaven.cc": [
+            "connect-src",
+            "img-src",
+            "style-src",
+            "font-src"
+        ]
+    }
+}

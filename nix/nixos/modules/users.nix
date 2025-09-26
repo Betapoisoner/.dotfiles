@@ -10,7 +10,7 @@
           "networkmanager"
           "wheel"
           "input"
-	  "aria2"
+          "aria2"
         ];
         packages = with pkgs; [
           kdePackages.kate

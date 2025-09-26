@@ -1,4 +1,3 @@
-
 { pkgs, ... }:
 {
   # Import hardware-specific configuration and custom modules
@@ -13,7 +12,7 @@
 
   # Keyboard configuration
   console.keyMap = "es"; # Console keyboard layout
-  
+
   # System state version (should not be changed after initial install)
   system.stateVersion = "25.05";
 }

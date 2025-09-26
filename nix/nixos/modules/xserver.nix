@@ -11,7 +11,7 @@
       # };
 
       xkb = {
-        layout = "es";
+        layout = "es,us";
         variant = "";
       };
 
