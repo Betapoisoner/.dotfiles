@@ -88,7 +88,6 @@
       discord # Voice, video and text communication platform
       vesktop # Discord but with vencord
       telegram-desktop
-      ayugram-desktop 
  
       # Note Taking
       obsidian # Knowledge base that works on local Markdown files
