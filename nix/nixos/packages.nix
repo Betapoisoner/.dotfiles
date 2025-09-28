@@ -33,6 +33,7 @@
       dbeaver-bin # db manager
       openjdk # jdk for java dev
       mongodb-compass
+      rpi-imager
 
       # Version Control
       lazygit # Simple terminal UI for git commands
@@ -86,8 +87,9 @@
       # Communication
       discord # Voice, video and text communication platform
       vesktop # Discord but with vencord
-      telegram-desktop     	
-
+      telegram-desktop
+      ayugram-desktop 
+ 
       # Note Taking
       obsidian # Knowledge base that works on local Markdown files
 
@@ -96,6 +98,7 @@
       qbittorrent      
       yt-dlp # YouTube video downloader
       amule # Emule base app
+      tdl # Telegram downloader
 
       # Disk Utilities
       caligula # TUI (Terminal User Interface) for the dd disk cloning utility

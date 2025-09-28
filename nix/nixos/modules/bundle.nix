@@ -11,6 +11,7 @@
     ./shell.nix
     ./sound.nix
     ./users.nix
+    ./virtmanager.nix
     ./xserver.nix
   ];
 }

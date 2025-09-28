@@ -199,7 +199,7 @@
             "enabled": true
         },
         "Experiments": {
-            "enabled": true,
+            "enabled": false,
             "toolbarDevMenu": false
         },
         "F8Break": {
@@ -241,7 +241,7 @@
             "enabled": true
         },
         "ForceOwnerCrown": {
-            "enabled": true
+            "enabled": false
         },
         "FriendInvites": {
             "enabled": true
@@ -313,7 +313,8 @@
         "MemberCount": {
             "enabled": true,
             "memberList": true,
-            "toolTip": true
+            "toolTip": true,
+            "voiceActivity": true
         },
         "MentionAvatars": {
             "enabled": true,
@@ -667,7 +668,7 @@
             "enabled": true
         },
         "StartupTimings": {
-            "enabled": false
+            "enabled": true
         },
         "StickerPaste": {
             "enabled": false
@@ -801,12 +802,19 @@
             "enabled": false
         },
         "ImageFilename": {
-            "enabled": false
+            "enabled": true,
+            "showFullUrl": false
         },
         "WebKeybinds": {
             "enabled": true
         },
         "WebScreenShareFixes": {
+            "enabled": true
+        },
+        "DisableDeepLinks": {
+            "enabled": true
+        },
+        "WebContextMenus": {
             "enabled": true
         }
     },
@@ -820,6 +828,6 @@
         "authenticated": true,
         "url": "https://api.vencord.dev/",
         "settingsSync": true,
-        "settingsSyncVersion": 1758103184620
+        "settingsSyncVersion": 1758991601643
     }
 }

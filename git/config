@@ -183,3 +183,5 @@
 
 	# Cherry-pick commits
 	chp = cherry-pick
+[maintenance]
+	repo = /home/beta/.dotfiles
