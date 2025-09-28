@@ -13,5 +13,6 @@
     ./users.nix
     ./virtmanager.nix
     ./xserver.nix
+    ./firewall.nix
   ];
 }
